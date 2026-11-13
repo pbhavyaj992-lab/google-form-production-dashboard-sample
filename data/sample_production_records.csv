@@ -1,0 +1,253 @@
+date,shift,supervisor,production_line,product,batch_no,material,supplier,movement_type,qty_received_kg,qty_issued_kg,units_produced,defects,downtime_minutes,operator
+2026-11-08,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261108-A2,HDPE Bottles,Supplier Beta,Inward,1000,0,2381,9,60,Operator A
+2026-11-05,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261105-B1,HDPE Bottles,Supplier Beta,Inward,250,0,3913,36,0,Operator B
+2026-10-27,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261027-B2,SLES,Supplier Alpha,Inward,0,0,2821,5,0,Operator A
+2026-10-29,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261029-A1,HDPE Bottles,Supplier Alpha,Outward,0,454,3446,6,0,Operator D
+2026-11-06,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261106-B2,Caustic Soda,Supplier Alpha,Inward,250,0,3867,36,60,Operator A
+2026-10-26,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261026-C3,Soda Ash,Supplier Beta,Inward,250,0,3545,17,0,Operator E
+2026-11-02,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261102-B1,Packaging Film,Supplier Beta,Outward,0,363,2643,16,15,Operator F
+2026-10-27,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261027-B3,HDPE Bottles,Supplier Beta,Inward,0,0,2580,10,60,Operator A
+2026-10-28,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261028-B2,Fragrance,Supplier Gamma,Outward,0,181,1815,7,0,Operator C
+2026-11-07,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261107-B2,SLES,Supplier Gamma,Inward,0,0,2594,31,0,Operator A
+2026-10-26,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261026-A2,Packaging Film,Supplier Beta,Inward,0,0,3659,27,30,Operator C
+2026-11-07,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261107-A1,SLES,Supplier Beta,Inward,250,0,3544,6,10,Operator C
+2026-11-05,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261105-B3,Packaging Film,Supplier Beta,Outward,0,346,2017,27,20,Operator E
+2026-11-07,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261107-B3,Fragrance,Supplier Beta,Inward,500,0,2670,35,10,Operator D
+2026-11-05,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261105-C1,Soda Ash,Supplier Beta,Outward,0,274,857,11,10,Operator C
+2026-11-05,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261105-C3,Packaging Film,Supplier Gamma,Inward,0,0,3362,13,20,Operator F
+2026-11-03,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261103-C3,Packaging Film,Supplier Alpha,Outward,0,392,2554,42,30,Operator A
+2026-10-29,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261029-A1,HDPE Bottles,Supplier Alpha,Inward,1000,0,3446,6,0,Operator D
+2026-11-08,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261108-B3,Packaging Film,Supplier Alpha,Inward,750,0,1761,20,20,Operator B
+2026-10-31,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261031-B2,Fragrance,Supplier Beta,Outward,0,236,1713,0,15,Operator D
+2026-11-08,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261108-A1,Caustic Soda,Supplier Beta,Inward,1000,0,3204,37,60,Operator B
+2026-10-27,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261027-A3,Packaging Film,Supplier Beta,Outward,0,125,3586,46,0,Operator F
+2026-11-07,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261107-B1,HDPE Bottles,Supplier Beta,Outward,0,459,2440,35,0,Operator D
+2026-11-07,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261107-A3,Caustic Soda,Supplier Beta,Inward,0,0,1430,15,20,Operator E
+2026-11-07,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261107-A3,Caustic Soda,Supplier Beta,Outward,0,451,1430,15,20,Operator E
+2026-10-29,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261029-A3,Caustic Soda,Supplier Alpha,Inward,750,0,2859,33,10,Operator A
+2026-10-29,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261029-A3,Caustic Soda,Supplier Alpha,Outward,0,364,2859,33,10,Operator A
+2026-10-31,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261031-A3,Caustic Soda,Supplier Alpha,Outward,0,211,3178,16,0,Operator A
+2026-11-02,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261102-B3,Fragrance,Supplier Alpha,Inward,250,0,2789,1,45,Operator C
+2026-10-30,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261030-B2,HDPE Bottles,Supplier Alpha,Inward,0,0,1272,3,10,Operator C
+2026-11-05,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261105-C3,Packaging Film,Supplier Gamma,Outward,0,226,3362,13,20,Operator F
+2026-10-26,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261026-A1,Caustic Soda,Supplier Gamma,Inward,250,0,1714,4,0,Operator F
+2026-10-26,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261026-B2,Soda Ash,Supplier Beta,Outward,0,167,2356,6,30,Operator C
+2026-11-07,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261107-C3,Packaging Film,Supplier Gamma,Inward,1000,0,1085,8,45,Operator C
+2026-11-06,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261106-A2,Fragrance,Supplier Alpha,Inward,750,0,3452,9,20,Operator B
+2026-11-05,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261105-B3,Packaging Film,Supplier Beta,Inward,500,0,2017,27,20,Operator E
+2026-10-28,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261028-B1,SLES,Supplier Beta,Outward,0,149,1786,28,0,Operator A
+2026-10-30,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261030-A1,SLES,Supplier Alpha,Inward,1000,0,1777,8,45,Operator B
+2026-11-08,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261108-A3,HDPE Bottles,Supplier Alpha,Inward,250,0,2985,24,30,Operator F
+2026-10-31,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261031-A2,SLES,Supplier Alpha,Inward,1000,0,2366,2,60,Operator B
+2026-11-02,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261102-A2,Soda Ash,Supplier Beta,Outward,0,283,3012,5,10,Operator B
+2026-11-02,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261102-C3,HDPE Bottles,Supplier Alpha,Outward,0,185,3348,34,0,Operator D
+2026-11-01,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261101-C3,Caustic Soda,Supplier Beta,Inward,0,0,4093,66,60,Operator A
+2026-10-27,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261027-B1,HDPE Bottles,Supplier Beta,Outward,0,237,4166,4,30,Operator D
+2026-10-31,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261031-A3,Caustic Soda,Supplier Alpha,Inward,250,0,3178,16,0,Operator A
+2026-10-26,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261026-A1,Caustic Soda,Supplier Gamma,Outward,0,245,1714,4,0,Operator F
+2026-11-06,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261106-C3,SLES,Supplier Alpha,Inward,750,0,3400,52,60,Operator A
+2026-11-06,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261106-B2,Caustic Soda,Supplier Alpha,Outward,0,424,3867,36,60,Operator A
+2026-11-01,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261101-A1,Caustic Soda,Supplier Gamma,Outward,0,439,2085,7,20,Operator E
+2026-11-04,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261104-C1,HDPE Bottles,Supplier Gamma,Inward,250,0,1805,26,0,Operator C
+2026-11-02,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261102-B3,Fragrance,Supplier Alpha,Outward,0,343,2789,1,45,Operator C
+2026-10-31,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261031-B1,HDPE Bottles,Supplier Alpha,Inward,250,0,2464,39,10,Operator B
+2026-11-08,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261108-A2,HDPE Bottles,Supplier Beta,Outward,0,315,2381,9,60,Operator A
+2026-11-06,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261106-C2,HDPE Bottles,Supplier Beta,Outward,0,326,1915,31,60,Operator A
+2026-11-08,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261108-B3,Packaging Film,Supplier Alpha,Outward,0,155,1761,20,20,Operator B
+2026-11-04,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261104-B1,Fragrance,Supplier Alpha,Outward,0,387,3464,17,60,Operator D
+2026-10-30,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261030-A3,SLES,Supplier Alpha,Inward,0,0,2534,17,0,Operator A
+2026-10-27,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261027-A2,Soda Ash,Supplier Beta,Outward,0,246,3851,33,45,Operator E
+2026-11-06,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261106-B1,HDPE Bottles,Supplier Gamma,Inward,500,0,933,7,20,Operator F
+2026-10-27,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261027-C1,Caustic Soda,Supplier Alpha,Inward,750,0,1670,20,60,Operator D
+2026-11-01,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261101-A2,SLES,Supplier Beta,Outward,0,340,4018,41,60,Operator D
+2026-11-02,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261102-A2,Soda Ash,Supplier Beta,Inward,250,0,3012,5,10,Operator B
+2026-10-27,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261027-C3,Packaging Film,Supplier Alpha,Inward,750,0,3361,19,15,Operator B
+2026-11-05,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261105-A1,Soda Ash,Supplier Alpha,Inward,1000,0,2092,7,10,Operator B
+2026-10-31,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261031-B3,SLES,Supplier Gamma,Inward,250,0,3283,32,0,Operator D
+2026-11-07,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261107-C3,Packaging Film,Supplier Gamma,Outward,0,189,1085,8,45,Operator C
+2026-11-01,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261101-B1,HDPE Bottles,Supplier Beta,Outward,0,326,3655,18,10,Operator B
+2026-10-30,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261030-A3,SLES,Supplier Alpha,Outward,0,444,2534,17,0,Operator A
+2026-11-04,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261104-A2,Soda Ash,Supplier Beta,Outward,0,432,3536,24,30,Operator A
+2026-11-05,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261105-A3,Packaging Film,Supplier Beta,Inward,0,0,1285,17,45,Operator E
+2026-10-31,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261031-C2,SLES,Supplier Alpha,Inward,250,0,3427,32,45,Operator F
+2026-11-05,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261105-B2,Packaging Film,Supplier Beta,Inward,500,0,2604,21,10,Operator A
+2026-11-04,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261104-B1,Fragrance,Supplier Alpha,Inward,1000,0,3464,17,60,Operator D
+2026-11-01,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261101-A3,Caustic Soda,Supplier Alpha,Inward,500,0,3947,9,60,Operator D
+2026-11-08,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261108-C1,Soda Ash,Supplier Gamma,Outward,0,412,2368,14,45,Operator A
+2026-10-30,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261030-B3,Soda Ash,Supplier Gamma,Outward,0,202,3836,56,45,Operator E
+2026-10-31,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261031-C3,SLES,Supplier Alpha,Outward,0,343,806,8,15,Operator C
+2026-11-02,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261102-B2,Fragrance,Supplier Gamma,Inward,0,0,1063,13,45,Operator C
+2026-11-05,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261105-B2,Packaging Film,Supplier Beta,Outward,0,365,2604,21,10,Operator A
+2026-10-28,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261028-C3,Soda Ash,Supplier Alpha,Outward,0,457,2565,22,45,Operator D
+2026-11-02,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261102-C3,HDPE Bottles,Supplier Alpha,Inward,500,0,3348,34,0,Operator D
+2026-11-06,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261106-B3,HDPE Bottles,Supplier Beta,Inward,750,0,3925,22,60,Operator E
+2026-11-06,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261106-C2,HDPE Bottles,Supplier Beta,Inward,1000,0,1915,31,60,Operator A
+2026-10-28,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261028-A3,Soda Ash,Supplier Alpha,Outward,0,289,1090,16,15,Operator C
+2026-11-02,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261102-C1,Packaging Film,Supplier Beta,Inward,1000,0,1924,28,0,Operator F
+2026-11-01,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261101-C3,Caustic Soda,Supplier Beta,Outward,0,210,4093,66,60,Operator A
+2026-10-27,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261027-A3,Packaging Film,Supplier Beta,Inward,750,0,3586,46,0,Operator F
+2026-11-06,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261106-A1,Soda Ash,Supplier Alpha,Outward,0,402,1107,5,0,Operator D
+2026-10-31,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261031-C1,Soda Ash,Supplier Beta,Inward,0,0,3816,42,45,Operator F
+2026-10-29,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261029-B2,Soda Ash,Supplier Beta,Outward,0,319,1886,29,20,Operator D
+2026-11-05,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261105-C2,Fragrance,Supplier Alpha,Inward,0,0,2814,4,0,Operator B
+2026-10-26,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261026-C1,Packaging Film,Supplier Alpha,Inward,1000,0,3672,34,45,Operator B
+2026-11-05,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261105-B1,HDPE Bottles,Supplier Beta,Outward,0,421,3913,36,0,Operator B
+2026-10-26,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261026-C3,Soda Ash,Supplier Beta,Outward,0,227,3545,17,0,Operator E
+2026-11-08,Afternoon (14:00-22:00),Supervisor 2,Line C,Floor Cleaner 1L,B261108-C2,Fragrance,Supplier Gamma,Outward,0,158,2723,16,30,Operator E
+2026-10-28,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261028-C3,Soda Ash,Supplier Alpha,Inward,0,0,2565,22,45,Operator D
+2026-11-03,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261103-A2,HDPE Bottles,Supplier Alpha,Outward,0,246,1616,26,0,Operator E
+2026-10-28,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261028-B1,SLES,Supplier Beta,Inward,0,0,1786,28,0,Operator A
+2026-10-30,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261030-C3,Caustic Soda,Supplier Alpha,Outward,0,196,3034,2,30,Operator E
+2026-11-07,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261107-C1,SLES,Supplier Beta,Inward,250,0,3964,51,0,Operator F
+2026-11-01,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261101-A2,SLES,Supplier Beta,Inward,0,0,4018,41,60,Operator D
+2026-11-03,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261103-A3,Packaging Film,Supplier Alpha,Outward,0,414,3574,58,45,Operator D
+2026-10-30,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261030-C2,Packaging Film,Supplier Alpha,Inward,1000,0,1633,21,20,Operator E
+2026-10-27,Afternoon (14:00-22:00),Supervisor 2,Line C,Floor Cleaner 1L,B261027-C2,HDPE Bottles,Supplier Alpha,Inward,1000,0,3242,4,45,Operator D
+2026-10-30,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261030-A2,Fragrance,Supplier Gamma,Inward,1000,0,3305,51,0,Operator F
+2026-10-28,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261028-C1,Caustic Soda,Supplier Gamma,Outward,0,185,3502,30,10,Operator C
+2026-10-29,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261029-C3,Packaging Film,Supplier Alpha,Outward,0,424,962,2,45,Operator F
+2026-11-03,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261103-B3,Caustic Soda,Supplier Gamma,Outward,0,441,1794,3,20,Operator F
+2026-11-07,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261107-B2,SLES,Supplier Gamma,Outward,0,267,2594,31,0,Operator A
+2026-11-05,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261105-C2,Fragrance,Supplier Alpha,Outward,0,325,2814,4,0,Operator B
+2026-11-02,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261102-C2,Fragrance,Supplier Alpha,Inward,0,0,2395,37,0,Operator E
+2026-11-04,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261104-C3,Fragrance,Supplier Gamma,Inward,750,0,2241,29,20,Operator C
+2026-10-26,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261026-A3,HDPE Bottles,Supplier Gamma,Outward,0,415,1587,22,0,Operator A
+2026-11-01,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261101-B3,HDPE Bottles,Supplier Gamma,Inward,500,0,2436,15,10,Operator F
+2026-10-30,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261030-B2,HDPE Bottles,Supplier Alpha,Outward,0,255,1272,3,10,Operator C
+2026-11-08,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261108-B1,Packaging Film,Supplier Beta,Outward,0,290,3060,48,45,Operator D
+2026-11-04,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261104-C1,HDPE Bottles,Supplier Gamma,Outward,0,285,1805,26,0,Operator C
+2026-10-30,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261030-B1,Fragrance,Supplier Beta,Inward,0,0,2677,39,0,Operator A
+2026-11-02,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261102-A1,Caustic Soda,Supplier Beta,Inward,0,0,3534,33,30,Operator D
+2026-11-01,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261101-A3,Caustic Soda,Supplier Alpha,Outward,0,432,3947,9,60,Operator D
+2026-11-08,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261108-B2,Packaging Film,Supplier Gamma,Inward,250,0,2603,6,60,Operator A
+2026-11-02,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261102-C2,Fragrance,Supplier Alpha,Outward,0,335,2395,37,0,Operator E
+2026-10-28,Afternoon (14:00-22:00),Supervisor 2,Line C,Floor Cleaner 1L,B261028-C2,Packaging Film,Supplier Gamma,Outward,0,421,1702,0,0,Operator F
+2026-11-04,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261104-C2,Packaging Film,Supplier Alpha,Inward,750,0,1150,7,45,Operator D
+2026-10-26,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261026-B3,SLES,Supplier Alpha,Outward,0,171,2356,17,60,Operator F
+2026-10-29,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261029-B3,Soda Ash,Supplier Alpha,Inward,750,0,3565,55,15,Operator D
+2026-11-05,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261105-A2,Caustic Soda,Supplier Gamma,Outward,0,477,1317,20,60,Operator A
+2026-10-26,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261026-B1,Packaging Film,Supplier Beta,Outward,0,135,1183,6,15,Operator E
+2026-11-02,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261102-C1,Packaging Film,Supplier Beta,Outward,0,242,1924,28,0,Operator F
+2026-11-03,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261103-B2,Soda Ash,Supplier Alpha,Outward,0,462,1268,18,15,Operator D
+2026-11-03,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261103-A1,Caustic Soda,Supplier Gamma,Outward,0,189,2691,11,0,Operator C
+2026-11-05,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261105-A1,Soda Ash,Supplier Alpha,Outward,0,218,2092,7,10,Operator B
+2026-10-29,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261029-B1,Caustic Soda,Supplier Alpha,Outward,0,217,2996,28,10,Operator D
+2026-11-07,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261107-C1,SLES,Supplier Beta,Outward,0,179,3964,51,0,Operator F
+2026-10-27,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261027-A1,Packaging Film,Supplier Gamma,Outward,0,203,2693,24,20,Operator F
+2026-11-06,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261106-A3,Fragrance,Supplier Gamma,Outward,0,429,1825,0,0,Operator B
+2026-10-27,Afternoon (14:00-22:00),Supervisor 2,Line C,Floor Cleaner 1L,B261027-C2,HDPE Bottles,Supplier Alpha,Outward,0,336,3242,4,45,Operator D
+2026-10-30,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261030-B3,Soda Ash,Supplier Gamma,Inward,250,0,3836,56,45,Operator E
+2026-11-03,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261103-B2,Soda Ash,Supplier Alpha,Inward,500,0,1268,18,15,Operator D
+2026-11-05,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261105-A3,Packaging Film,Supplier Beta,Outward,0,247,1285,17,45,Operator E
+2026-11-06,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261106-C3,SLES,Supplier Alpha,Outward,0,343,3400,52,60,Operator A
+2026-10-28,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261028-A2,Soda Ash,Supplier Gamma,Inward,1000,0,1623,22,20,Operator D
+2026-10-29,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261029-B3,Soda Ash,Supplier Alpha,Outward,0,154,3565,55,15,Operator D
+2026-11-02,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261102-B1,Packaging Film,Supplier Beta,Inward,0,0,2643,16,15,Operator F
+2026-11-08,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261108-C1,Soda Ash,Supplier Gamma,Inward,0,0,2368,14,45,Operator A
+2026-11-04,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261104-B2,SLES,Supplier Alpha,Outward,0,228,2253,16,30,Operator C
+2026-11-02,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261102-A3,Fragrance,Supplier Alpha,Inward,250,0,3886,49,45,Operator E
+2026-11-03,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261103-C2,SLES,Supplier Alpha,Inward,750,0,3863,14,10,Operator C
+2026-10-28,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261028-B3,Soda Ash,Supplier Gamma,Outward,0,412,3160,30,15,Operator D
+2026-11-08,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261108-C3,Fragrance,Supplier Alpha,Inward,1000,0,1211,14,10,Operator F
+2026-10-31,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261031-C3,SLES,Supplier Alpha,Inward,1000,0,806,8,15,Operator C
+2026-11-08,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261108-A3,HDPE Bottles,Supplier Alpha,Outward,0,465,2985,24,30,Operator F
+2026-11-05,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261105-C1,Soda Ash,Supplier Beta,Inward,0,0,857,11,10,Operator C
+2026-10-27,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261027-C1,Caustic Soda,Supplier Alpha,Outward,0,281,1670,20,60,Operator D
+2026-10-27,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261027-B3,HDPE Bottles,Supplier Beta,Outward,0,270,2580,10,60,Operator A
+2026-10-31,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261031-B1,HDPE Bottles,Supplier Alpha,Outward,0,406,2464,39,10,Operator B
+2026-11-03,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261103-C1,Caustic Soda,Supplier Beta,Inward,0,0,1013,11,15,Operator F
+2026-10-26,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261026-B2,Soda Ash,Supplier Beta,Inward,0,0,2356,6,30,Operator C
+2026-11-01,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261101-C1,HDPE Bottles,Supplier Beta,Inward,1000,0,3321,36,20,Operator D
+2026-10-30,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261030-A2,Fragrance,Supplier Gamma,Outward,0,274,3305,51,0,Operator F
+2026-10-26,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261026-C2,Caustic Soda,Supplier Gamma,Inward,500,0,1311,12,0,Operator E
+2026-11-06,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261106-B1,HDPE Bottles,Supplier Gamma,Outward,0,269,933,7,20,Operator F
+2026-10-27,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261027-A2,Soda Ash,Supplier Beta,Inward,0,0,3851,33,45,Operator E
+2026-11-03,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261103-C3,Packaging Film,Supplier Alpha,Inward,250,0,2554,42,30,Operator A
+2026-10-27,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261027-C3,Packaging Film,Supplier Alpha,Outward,0,174,3361,19,15,Operator B
+2026-11-06,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261106-A1,Soda Ash,Supplier Alpha,Inward,0,0,1107,5,0,Operator D
+2026-11-07,Afternoon (14:00-22:00),Supervisor 2,Line C,Floor Cleaner 1L,B261107-C2,HDPE Bottles,Supplier Alpha,Inward,250,0,856,8,45,Operator A
+2026-10-28,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261028-A3,Soda Ash,Supplier Alpha,Inward,0,0,1090,16,15,Operator C
+2026-11-04,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261104-A1,Caustic Soda,Supplier Beta,Inward,500,0,2575,23,60,Operator F
+2026-10-29,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261029-B1,Caustic Soda,Supplier Alpha,Inward,0,0,2996,28,10,Operator D
+2026-10-31,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261031-A1,Fragrance,Supplier Alpha,Inward,0,0,2293,2,30,Operator B
+2026-11-04,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261104-B3,Fragrance,Supplier Gamma,Outward,0,276,3519,37,30,Operator D
+2026-10-29,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261029-C1,SLES,Supplier Beta,Inward,0,0,2615,35,0,Operator A
+2026-11-06,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261106-A3,Fragrance,Supplier Gamma,Inward,250,0,1825,0,0,Operator B
+2026-11-07,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261107-A2,Fragrance,Supplier Alpha,Outward,0,385,2281,31,60,Operator A
+2026-11-03,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261103-C2,SLES,Supplier Alpha,Outward,0,430,3863,14,10,Operator C
+2026-10-26,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261026-A3,HDPE Bottles,Supplier Gamma,Inward,250,0,1587,22,0,Operator A
+2026-11-04,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261104-A3,HDPE Bottles,Supplier Beta,Outward,0,371,2635,1,0,Operator C
+2026-11-08,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261108-B1,Packaging Film,Supplier Beta,Inward,250,0,3060,48,45,Operator D
+2026-11-06,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261106-B3,HDPE Bottles,Supplier Beta,Outward,0,140,3925,22,60,Operator E
+2026-10-29,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261029-C3,Packaging Film,Supplier Alpha,Inward,750,0,962,2,45,Operator F
+2026-10-31,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261031-C2,SLES,Supplier Alpha,Outward,0,299,3427,32,45,Operator F
+2026-11-04,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261104-A2,Soda Ash,Supplier Beta,Inward,750,0,3536,24,30,Operator A
+2026-10-26,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261026-C1,Packaging Film,Supplier Alpha,Outward,0,452,3672,34,45,Operator B
+2026-11-05,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261105-A2,Caustic Soda,Supplier Gamma,Inward,250,0,1317,20,60,Operator A
+2026-11-04,Night (22:00-06:00),Supervisor 3,Line C,Dishwash Liquid 750ml,B261104-C3,Fragrance,Supplier Gamma,Outward,0,289,2241,29,20,Operator C
+2026-11-08,Afternoon (14:00-22:00),Supervisor 2,Line C,Floor Cleaner 1L,B261108-C2,Fragrance,Supplier Gamma,Inward,0,0,2723,16,30,Operator E
+2026-11-03,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261103-B1,SLES,Supplier Alpha,Outward,0,287,2182,24,20,Operator D
+2026-11-08,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261108-B2,Packaging Film,Supplier Gamma,Outward,0,171,2603,6,60,Operator A
+2026-11-03,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261103-B1,SLES,Supplier Alpha,Inward,500,0,2182,24,20,Operator D
+2026-11-07,Afternoon (14:00-22:00),Supervisor 2,Line C,Floor Cleaner 1L,B261107-C2,HDPE Bottles,Supplier Alpha,Outward,0,402,856,8,45,Operator A
+2026-10-29,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261029-A2,Caustic Soda,Supplier Alpha,Inward,0,0,2789,30,15,Operator D
+2026-10-27,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261027-B2,SLES,Supplier Alpha,Outward,0,380,2821,5,0,Operator A
+2026-11-01,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261101-B3,HDPE Bottles,Supplier Gamma,Outward,0,373,2436,15,10,Operator F
+2026-10-31,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261031-B2,Fragrance,Supplier Beta,Inward,250,0,1713,0,15,Operator D
+2026-10-28,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261028-B3,Soda Ash,Supplier Gamma,Inward,0,0,3160,30,15,Operator D
+2026-10-30,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261030-C1,Packaging Film,Supplier Beta,Outward,0,298,1081,7,30,Operator C
+2026-11-01,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261101-B2,HDPE Bottles,Supplier Alpha,Inward,750,0,4051,21,0,Operator C
+2026-10-29,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261029-C2,Soda Ash,Supplier Alpha,Inward,250,0,1039,17,0,Operator F
+2026-11-04,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261104-B3,Fragrance,Supplier Gamma,Inward,0,0,3519,37,30,Operator D
+2026-11-01,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261101-A1,Caustic Soda,Supplier Gamma,Inward,250,0,2085,7,20,Operator E
+2026-11-07,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261107-B1,HDPE Bottles,Supplier Beta,Inward,250,0,2440,35,0,Operator D
+2026-11-08,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261108-C3,Fragrance,Supplier Alpha,Outward,0,480,1211,14,10,Operator F
+2026-11-03,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261103-A2,HDPE Bottles,Supplier Alpha,Inward,0,0,1616,26,0,Operator E
+2026-10-30,Night (22:00-06:00),Supervisor 3,Line C,Floor Cleaner 1L,B261030-C3,Caustic Soda,Supplier Alpha,Inward,1000,0,3034,2,30,Operator E
+2026-11-01,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261101-C1,HDPE Bottles,Supplier Beta,Outward,0,209,3321,36,20,Operator D
+2026-10-27,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261027-A1,Packaging Film,Supplier Gamma,Inward,0,0,2693,24,20,Operator F
+2026-10-28,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261028-C1,Caustic Soda,Supplier Gamma,Inward,0,0,3502,30,10,Operator C
+2026-11-02,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 5kg,B261102-A3,Fragrance,Supplier Alpha,Outward,0,272,3886,49,45,Operator E
+2026-11-04,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261104-C2,Packaging Film,Supplier Alpha,Outward,0,217,1150,7,45,Operator D
+2026-10-30,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261030-A1,SLES,Supplier Alpha,Outward,0,280,1777,8,45,Operator B
+2026-11-01,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261101-C2,Caustic Soda,Supplier Alpha,Outward,0,278,1720,25,15,Operator B
+2026-11-06,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261106-A2,Fragrance,Supplier Alpha,Outward,0,235,3452,9,20,Operator B
+2026-10-26,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261026-B1,Packaging Film,Supplier Beta,Inward,0,0,1183,6,15,Operator E
+2026-11-04,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261104-B2,SLES,Supplier Alpha,Inward,500,0,2253,16,30,Operator C
+2026-11-07,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261107-A1,SLES,Supplier Beta,Outward,0,284,3544,6,10,Operator C
+2026-11-01,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261101-B2,HDPE Bottles,Supplier Alpha,Outward,0,362,4051,21,0,Operator C
+2026-10-29,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261029-C2,Soda Ash,Supplier Alpha,Outward,0,231,1039,17,0,Operator F
+2026-11-04,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261104-A1,Caustic Soda,Supplier Beta,Outward,0,174,2575,23,60,Operator F
+2026-11-01,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261101-C2,Caustic Soda,Supplier Alpha,Inward,1000,0,1720,25,15,Operator B
+2026-10-29,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261029-C1,SLES,Supplier Beta,Outward,0,158,2615,35,0,Operator A
+2026-10-28,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261028-A1,Soda Ash,Supplier Gamma,Inward,750,0,3253,20,60,Operator A
+2026-11-03,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261103-C1,Caustic Soda,Supplier Beta,Outward,0,396,1013,11,15,Operator F
+2026-11-02,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261102-A1,Caustic Soda,Supplier Beta,Outward,0,357,3534,33,30,Operator D
+2026-10-29,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261029-A2,Caustic Soda,Supplier Alpha,Outward,0,328,2789,30,15,Operator D
+2026-11-08,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261108-A1,Caustic Soda,Supplier Beta,Outward,0,272,3204,37,60,Operator B
+2026-11-03,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261103-B3,Caustic Soda,Supplier Gamma,Inward,1000,0,1794,3,20,Operator F
+2026-10-31,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 1kg,B261031-A2,SLES,Supplier Alpha,Outward,0,175,2366,2,60,Operator B
+2026-11-07,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261107-A2,Fragrance,Supplier Alpha,Inward,0,0,2281,31,60,Operator A
+2026-11-03,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261103-A3,Packaging Film,Supplier Alpha,Inward,250,0,3574,58,45,Operator D
+2026-10-27,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 500ml,B261027-B1,HDPE Bottles,Supplier Beta,Inward,0,0,4166,4,30,Operator D
+2026-10-28,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 1L,B261028-B2,Fragrance,Supplier Gamma,Inward,500,0,1815,7,0,Operator C
+2026-10-28,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261028-A2,Soda Ash,Supplier Gamma,Outward,0,473,1623,22,20,Operator D
+2026-10-28,Afternoon (14:00-22:00),Supervisor 2,Line C,Floor Cleaner 1L,B261028-C2,Packaging Film,Supplier Gamma,Inward,0,0,1702,0,0,Operator F
+2026-11-06,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261106-C1,HDPE Bottles,Supplier Beta,Inward,0,0,1756,29,20,Operator F
+2026-11-04,Night (22:00-06:00),Supervisor 3,Line A,Detergent Powder 1kg,B261104-A3,HDPE Bottles,Supplier Beta,Inward,1000,0,2635,1,0,Operator C
+2026-11-03,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261103-A1,Caustic Soda,Supplier Gamma,Inward,500,0,2691,11,0,Operator C
+2026-10-31,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261031-B3,SLES,Supplier Gamma,Outward,0,343,3283,32,0,Operator D
+2026-11-02,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261102-B2,Fragrance,Supplier Gamma,Outward,0,229,1063,13,45,Operator C
+2026-10-29,Afternoon (14:00-22:00),Supervisor 2,Line B,Liquid Soap 500ml,B261029-B2,Soda Ash,Supplier Beta,Inward,0,0,1886,29,20,Operator D
+2026-10-28,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 5kg,B261028-A1,Soda Ash,Supplier Gamma,Outward,0,120,3253,20,60,Operator A
+2026-11-01,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261101-B1,HDPE Bottles,Supplier Beta,Inward,250,0,3655,18,10,Operator B
+2026-10-31,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261031-C1,Soda Ash,Supplier Beta,Outward,0,211,3816,42,45,Operator F
+2026-10-31,Morning (06:00-14:00),Supervisor 1,Line A,Detergent Powder 1kg,B261031-A1,Fragrance,Supplier Alpha,Outward,0,277,2293,2,30,Operator B
+2026-10-30,Morning (06:00-14:00),Supervisor 1,Line B,Liquid Soap 1L,B261030-B1,Fragrance,Supplier Beta,Outward,0,124,2677,39,0,Operator A
+2026-10-26,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 500ml,B261026-B3,SLES,Supplier Alpha,Inward,0,0,2356,17,60,Operator F
+2026-11-06,Morning (06:00-14:00),Supervisor 1,Line C,Dishwash Liquid 750ml,B261106-C1,HDPE Bottles,Supplier Beta,Outward,0,471,1756,29,20,Operator F
+2026-10-30,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261030-C2,Packaging Film,Supplier Alpha,Outward,0,295,1633,21,20,Operator E
+2026-10-26,Afternoon (14:00-22:00),Supervisor 2,Line C,Dishwash Liquid 750ml,B261026-C2,Caustic Soda,Supplier Gamma,Outward,0,394,1311,12,0,Operator E
+2026-10-26,Afternoon (14:00-22:00),Supervisor 2,Line A,Detergent Powder 5kg,B261026-A2,Packaging Film,Supplier Beta,Outward,0,201,3659,27,30,Operator C
+2026-11-07,Night (22:00-06:00),Supervisor 3,Line B,Liquid Soap 1L,B261107-B3,Fragrance,Supplier Beta,Outward,0,244,2670,35,10,Operator D
+2026-10-30,Morning (06:00-14:00),Supervisor 1,Line C,Floor Cleaner 1L,B261030-C1,Packaging Film,Supplier Beta,Inward,0,0,1081,7,30,Operator C
